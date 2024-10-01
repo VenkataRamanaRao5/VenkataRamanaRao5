@@ -5,3 +5,6 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=VenkataRamanaRao5&label=Profile%20views&color=0e75b6&style=flat" alt="VenkataRamanaRao5" /> </p>
 
+#Hackerrank Badges
+
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/Venkat_Rao)](hackerrank.com/profile/Venkat_Rao)
