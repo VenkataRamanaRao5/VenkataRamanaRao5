@@ -4,3 +4,7 @@
 - 🌱 I’m currently learning react.js and scala
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=VenkataRamanaRao5&label=Profile%20views&color=0e75b6&style=flat" alt="VenkataRamanaRao5" /> </p>
+
+## [Hackerrank Badges](https://github.com/VenkataRamanaRao5/hackerrank)
+
+[![Hackerrank badges](https://hackerrank-badges.vercel.app/Venkat_Rao)](https://hackerrank.com/profile/Venkat_Rao)
